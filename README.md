@@ -1,6 +1,8 @@
 A) Data ini adalah data historis penjualan dari tiga cabang supermarket di Myanmar (Yangon, Mandalay, dan Naypyitaw) selama tiga bulan pertama di tahun 2019. Setiap baris mewakili satu transaksi penjualan. Data ini sangat berguna untuk melakukan analisis penjualan, tren pelanggan, dan performa bisnis secara umum.
 
-B) Dataset ini memiliki 17 kolom yang berisi informasi tentang :
+B) Library yang digunakan
+
+C) Dataset ini memiliki 17 kolom yang berisi informasi tentang :
 
 1. Invoice ID: Nomor unik untuk setiap transaksi
 2. Branch: Cabang supermarket tempat transaksi terjadi (A, B, atau C)
@@ -20,14 +22,14 @@ B) Dataset ini memiliki 17 kolom yang berisi informasi tentang :
 16. gross income: Pendapatan kotor dari transaksi tersebut
 17. Rating: Rating kepuasan pelanggan dari 1 hingga 10
 
-C) Data ini sangat fungsional untuk dianalisis, seperti:
+D) Data ini sangat fungsional untuk dianalisis, seperti:
 
 1. Analisis Penjualan: Mengidentifikasi produk terlaris, total penjualan per cabang, dan tren penjualan harian atau bulanan
 2. Analisis Pelanggan: Memahami perilaku pembelian antara anggota (Member) dan non-anggota (Normal), serta pola pembelian berdasarkan gender
 3. Analisis Keuangan: Menghitung total pendapatan kotor dan rata-rata harga produk
 4. Analisis Performa: Mengevaluasi kinerja cabang supermarket dan kepuasan pelanggan berdasarkan rating
 
-D) Aplikasi ini menggunakan Streamlit, sebuah framework Python yang mengubah skrip Python menjadi aplikasi web interaktif. Untuk menjalankan aplikasi ini, Anda harus memiliki Python dan Streamlit terinstal.
+E) Aplikasi ini menggunakan Streamlit, sebuah framework Python yang mengubah skrip Python menjadi aplikasi web interaktif. Untuk menjalankan aplikasi ini, Anda harus memiliki Python dan Streamlit terinstal.
 
 - Langkah-langkah:
 1. Pastikan Anda memiliki Python 3.7 atau versi yang lebih baru.
